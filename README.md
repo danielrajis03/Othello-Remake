@@ -33,20 +33,20 @@ Functional AI opponent.
 Real-time board visualization.
 
 
-Getting Started
+Getting Started:
 Prerequisites
 To run this project, you need to have the following installed on your system:
 
 Java Development Kit (JDK) 8 or higher
 Git (optional, for cloning the repository)
 
-Usage
+Usage:
 
 Start the game by running the main class.
 You will be loaded into an on-screen game against the AI.
 The game will continue until it ends due to no valid moves or the board is full.
 
-AI Strategy
+AI Strategy:
 
 The AI opponent employs a basic strategy for making moves. 
 It tries to maximize its disc count while minimizing the opponent's potential gains. 
