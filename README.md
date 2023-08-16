@@ -31,7 +31,7 @@ Features:
 Classic Othello gameplay with a user-friendly interface.
 Functional AI opponent.
 Real-time board visualization.
-Option to play against a friend or the AI.
+
 
 Getting Started
 Prerequisites
@@ -39,6 +39,21 @@ To run this project, you need to have the following installed on your system:
 
 Java Development Kit (JDK) 8 or higher
 Git (optional, for cloning the repository)
+
+Usage
+
+Start the game by running the main class.
+You will be loaded into an on-screen game against the AI.
+The game will continue until it ends due to no valid moves or the board is full.
+
+AI Strategy
+
+The AI opponent employs a basic strategy for making moves. 
+It tries to maximize its disc count while minimizing the opponent's potential gains. 
+The AI evaluates potential moves based on factors like corner and edge positions, mobility, and disc parity.
+
+Have fun playing Othello and testing your strategic skills against the AI opponent! If you have any questions or suggestions, feel free to reach out.
+
 
 
 
